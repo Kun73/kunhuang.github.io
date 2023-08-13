@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Kun Huang 黄琨"
 title_separator          : "-"
 name                     : &name "Kun Huang"
-description              : &description "Phd candidate at CUHKSZ"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD candidate at CUHKSZ"
+url                      : https://kun73.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kun73/kunhuang20.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pbNi7WsAAAAJ&hl=en"
-  email            :
+  email            : "kunhuang AT link DOT cuhk DOT edu DOT cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
