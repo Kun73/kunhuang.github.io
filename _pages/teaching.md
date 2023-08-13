@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 Teaching Assistant
 ======
 * The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)
