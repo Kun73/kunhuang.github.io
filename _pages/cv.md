@@ -19,6 +19,7 @@ Education
   * M.S. in Statistics (2020)
 
 * Tongji University, School of Mathematical Science
+  * B.S. in Applied Math (2018)
   
   
 
