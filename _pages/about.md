@@ -21,4 +21,4 @@ Research Interest
 
 Recent News
 ===
-+ Aug. 2023: I passed the thesis proposal and became the Phd candidate!
++ Aug. 2023: I passed the thesis proposal and became a PhD candidate!
