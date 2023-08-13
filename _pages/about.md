@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a Phd candidate in
 [School of Data Science](https://sds.cuhk.edu.cn), 
-[the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en)\
+[the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en)
 
 
 
