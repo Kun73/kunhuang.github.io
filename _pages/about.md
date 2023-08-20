@@ -21,4 +21,5 @@ Research Interest
 
 Recent News
 ===
++ Aug. 2023: I will give a short talk about our recent results on distributed stochastic gradient methods at the mini symposium of [ICIAM 2023](https://iciam2023.org/). All are welcome at 17:40-19:20, Aug. 22, E804.
 + Aug. 2023: I passed the thesis proposal and became a PhD candidate!
