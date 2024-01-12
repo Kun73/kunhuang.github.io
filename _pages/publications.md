@@ -14,7 +14,7 @@ Preprints
 ----
 $*$ indicates equal contributions
 
-+ **Kun Huang**<sup>*<sup>, Linli Zhou <sup>*<sup> and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
++ **Kun Huang**<sup>*, Linli Zhou <sup>* and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
   + *In this work, we design two novel decentralized random reshuffling methods, GT-RR and ED-RR. For minimizing smooth objective functions, they not only achieve similar convergence results compared to centralized RR methods but also improve the dependency regarding the network topology compared to the previous works.*
 
 + **Kun Huang**, Xiao Li and Shi Pu, [Distributed Stochastic Optimization under a General Variance Condition](https://arxiv.org/abs/2301.12677), submitted.
