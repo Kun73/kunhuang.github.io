@@ -12,7 +12,7 @@ author_profile: true
 
 Preprints
 ----
-* indicates equal contributions
+$*$ indicates equal contributions
 
 + $\textbf{Kun Huang}^*$, $\text{Linli Zhou}^*$ and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://arxiv.org/abs/2306.12037), submitted.
   + *In this work, we design two novel decentralized random reshuffling methods, GT-RR and ED-RR. For minimizing smooth objective functions, they not only achieve similar convergence results compared to centralized RR methods but also improve the dependency regarding the network topology compared to the previous works.*
