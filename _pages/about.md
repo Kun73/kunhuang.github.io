@@ -16,7 +16,7 @@ Welcome! I am a Phd candidate in
 
 Research Interest
 ===
-+ Distributed optimization methods
++ Distributed optimization
 + Federated learning, machine learning
 
 Recent News
