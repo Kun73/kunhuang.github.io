@@ -13,7 +13,6 @@ author_profile: true
 Preprints
 ----
 $*$ indicates equal contributions
-[An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/abs/2402.09714) (with Shi Pu and Angelia Nedić)
 
 + **Kun Huang**, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/abs/2402.09714), submitted.
   + *In this paper, we design a novel distributed stochastic gradient method, DSMT, that improves the convergence of current state-of-art methods, without mutiple inner loops of communications and gradient accumulations.*
