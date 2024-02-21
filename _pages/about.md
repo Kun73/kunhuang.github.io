@@ -21,6 +21,7 @@ Research Interest
 
 Recent News
 ===
++ Feb. 2024: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://arxiv.org/abs/2402.09714) (with Shi Pu and Angelia Nedić), is online. In this paper, a simple modification of DSGT leads to vast improvement.
 + Dec. 2023: I won the Duan Yong Ping Meritorious Research Award and received the Guotai Junan Securities Scholarship at CUHK-shenzhen.
-+ Aug. 2023: I will give a short talk about our recent results on distributed stochastic gradient methods at the mini symposium of [ICIAM 2023](https://iciam2023.org/). All are welcome at 17:40-19:20, Aug. 22, E804.
++ Aug. 2023: I gave a short talk about our recent results on distributed stochastic gradient methods at the mini symposium of [ICIAM 2023](https://iciam2023.org/). 
 + Aug. 2023: I passed the thesis proposal and became a PhD candidate!
