@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * The Chinese University of Hong Kong, Shenzhen (CUHKSZ), School of Data Science
-  * Ph.D. in Data Science (expected 2024)
+  * Ph.D. in Data Science (2025)
   * Advisor: Professor [Shi Pu](https://pu-shi.github.io/)
 
 * University of Connecticut (Uconn), Department of Statistics
